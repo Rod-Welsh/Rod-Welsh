@@ -12,7 +12,7 @@ My cloud of choice is Azure, and Infrastructure as Code (IaC) with Terraform is 
 - **Current Certs:** AZ-900 & AZ-104  
 - **Studying:** AZ-204 & the GitHub Copilot course (soon to add GitHub certifications to my trophy shelf)
 - **Philosophy:** "Let’s harness AI to build faster and better—then spend the extra time golfing!"
-- [Github Search](https://wwww.github.com/search)
+- [Github Search](https://www.github.com/search)
 
 ## 🛠️ Skills
 
