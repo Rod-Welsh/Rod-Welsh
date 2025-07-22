@@ -3,6 +3,7 @@
 ![Azure](https://img.shields.io/badge/Azure-DevOps-blue?logo=azure-devops)
 ![IaC](https://img.shields.io/badge/IaC-Terraform-623CE4?logo=terraform)
 ![Certifications](https://img.shields.io/badge/Certifications-AZ900%20%7C%20AZ104-0078D4?logo=microsoft-azure)
+![GitHub Foundations](https://img.shields.io/badge/Certification-GitHub%20Foundations-181717?logo=github)
 
 ## 🚀 About Me
 
