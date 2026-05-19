@@ -5,19 +5,21 @@
 ![AZ-900 Certified](https://img.shields.io/badge/AZ--900-Microsoft%20Certified-0078D4?logo=microsoft-azure)
 ![AZ-104 Certified (Expires: 30/09/2026)](https://img.shields.io/badge/AZ--104-Microsoft%20Certified-0078D4?logo=microsoft-azure&label=AZ-104%20Certified%20(Expires%3A%2030-09-2026))
 ![GitHub Foundations (Expires: 07/11/2027)](https://img.shields.io/badge/Certification-GitHub%20Foundations-181717?logo=github&label=GitHub%20Foundations%20(Expires%3A%2007-11-2027))
+![GitHub Actions (Expires: 15/05/2028)](https://img.shields.io/badge/Certification-GitHub%20Actions-181717?logo=github&label=GitHub%20Actions%20(Expires%3A%2015-05-2028))
 
 ## 🚀 About Me
 
 I'm a **DevOps Engineer** and **Azure Platform Engineer** with a passion for automating all the things—because why do it twice when you can script it once?  
 My cloud of choice is Azure, and Infrastructure as Code (IaC) with Terraform is my not-so-secret weapon.
 
-- **Current Certs:** AZ-900 & AZ-104  
-- **Studying:** AZ-204 & the GitHub Copilot course (soon to add GitHub certifications to my trophy shelf)
+- **Current Certs:** AZ-900 & AZ-104 & GitHub Foundations & GitHub Actions & Hackathon - DevOps & couple of others in the pipeline.
+- **Studying:** Just about anything to do with Azure Cloud Atm, finding myself knocking off quite a few easy wins first before tackiling the larger ones.
 - **Philosophy:** "Let’s harness AI to build faster and better—then spend the extra time golfing!"
 - [Github Search](https://www.github.com/search)
 
 ## 🛠️ Skills
 
+- ADHD & DevOps: Because who says you can't have a bit of chaos in your pipelines?
 - Azure DevOps & Platform Engineering
 - Terraform (IaC preferred, YAML tolerated)
 - Scripting & Automation
